@@ -1,0 +1,6 @@
+collections:
+  - name: ansible.posix
+  - name: community.general
+roles:
+  - name: geerlingguy.ntp
+  - name: geerlingguy.swap
