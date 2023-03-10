@@ -2,14 +2,14 @@ galaxy_info:
   role_name: server_base
   author: Snider
   description: Base server config for dAppServer & LetheanVPN
-  company: your company (optional)
+  company: Lethean Community Interest Company
   license: EUPL-1.2
-  min_ansible_version: 2.1
+  min_ansible_version: "2.1"
   platforms:
     - name: Ubuntu
       versions:
-        - 20.04
-        - 22.04
+        - jammy
+        - xenial
   galaxy_tags:
     - system
     - lethean
