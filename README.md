@@ -3,6 +3,12 @@ dappserver.server_base
 
 This provides a base configuration for a LetheanVPN or dAppServer project that other roles rely on.
 
+Dependencies
+------------
+This role depends on the following roles:
+
+- geerlingguy.ntp
+- geerlingguy.swap
 
 Example Playbook
 ----------------

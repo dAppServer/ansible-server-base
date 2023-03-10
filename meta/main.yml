@@ -13,6 +13,4 @@ galaxy_info:
   galaxy_tags:
     - system
     - lethean
-dependencies:
-  - geerlingguy.ntp
-  - geerlingguy.swap
+
